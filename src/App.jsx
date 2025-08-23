@@ -3,7 +3,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 // === 🔧 CONFIG (replace with your keys or inject via env) ===
 const CONFIG = {
   PLANT_ID_API_KEY: "YOUR_PLANT_ID_API_KEY",
-  PERENUAL_API_KEY: "YOUR_PERENUAL_API_KEY",
+  PERENUAL_API_KEY: "sk-8tjV68a9ca204d3a511985",
 };
 
 // === 🗺️ Simple i18n for Hebrew & Arabic (UI strings only) ===
